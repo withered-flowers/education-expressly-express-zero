@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "productName": "Tasty Steel Shoes",
+    "price": "635.00",
+    "product": "Pizza"
+  },
+  {
+    "id": 2,
+    "productName": "Incredible Wooden Gloves",
+    "price": "781.00",
+    "product": "Tuna"
+  },
+  {
+    "id": 3,
+    "productName": "Incredible Soft Pizza",
+    "price": "35.00",
+    "product": "Gloves"
+  },
+  {
+    "id": 4,
+    "productName": "Small Rubber Table",
+    "price": "526.00",
+    "product": "Bacon"
+  },
+  {
+    "id": 5,
+    "productName": "Unbranded Cotton Keyboard",
+    "price": "588.00",
+    "product": "Keyboard"
+  },
+  {
+    "id": 6,
+    "productName": "Intelligent Fresh Bike",
+    "price": "433.00",
+    "product": "Chicken"
+  },
+  {
+    "id": 7,
+    "productName": "Handmade Rubber Shirt",
+    "price": "518.00",
+    "product": "Chair"
+  },
+  {
+    "id": 8,
+    "productName": "Generic Rubber Salad",
+    "price": "257.00",
+    "product": "Car"
+  },
+  {
+    "id": 9,
+    "productName": "Unbranded Wooden Hat",
+    "price": "376.00",
+    "product": "Chips"
+  },
+  {
+    "id": 10,
+    "productName": "Handcrafted Granite Chair",
+    "price": "599.00",
+    "product": "Pizza"
+  }
+]
