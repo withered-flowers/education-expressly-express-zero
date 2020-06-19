@@ -185,6 +185,13 @@ app.listen(3000, () => {
 });
 ```
 
+Selamat, sampai di sini berarti kita sudah bisa memanfaatkan express untuk
+menampilkan output yang kita inginkan ke dalam browser loh !
+
+Jadi setelah ini, pembelajaran kita sudah tidak akan membosankan lagi hanya
+dengan melihat tulisan hitam putih saja, namun sudah bisa masuk ke dalam 
+browser, yay \o/ !
+
 ## Reference
 * [About package-lock.json - Coinmonks (Medium)](https://medium.com/coinmonks/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8)
 * [Express JS Documentation](https://expressjs.com/en/api.html#express)
