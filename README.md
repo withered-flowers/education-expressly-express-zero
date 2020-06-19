@@ -5,7 +5,7 @@
 1. [Basic express usage](#basic-express-usage)
 1. [Reference](#reference)
 
-## `express` What is
+## express What is
 
 Pernah gak berpikir, ketika kita belajar nodejs, ujungnya `console.log` 
 terus terusan, pada akhirnya CLI lagi, CLI lagi, duh bosen banget ga sih?
@@ -65,7 +65,7 @@ Cannot get /
 
 Mengapa demikian? Hal ini terjadi karena kita belum mengerti cara pakai express!
 
-## How to *expressing* `express`
+## How to *expressing* express
 Dalam menggunakan express, kita harus mendefinisikan rute (atau disebut dengan
 `endpoint`) yang akan digunakan oleh aplikasi web kita. cara mendefinisikan rute 
 pada app ini berhubungan dengan HTTP methods yang akan digunakan, seperti 
@@ -134,7 +134,7 @@ Cukup menyebalkan bukan ?
 
 Sehingga kita akan memasang module tambahan supaya aplikasi bisa auto restart pada saat pengembangan aplikasi web ini.
 
-## How to use `nodemon`
+## How to use nodemon
 Nah, untuk bisa mendapatkan fitur `auto restart`, kita akan memasang module 
 tambahan yang bernama `nodemon`.
 
